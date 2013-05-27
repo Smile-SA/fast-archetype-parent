@@ -10,6 +10,8 @@ Fast projects use the [fast-maven-plugin](http://smile-sa.github.io/fast-maven-p
 To quickly start a FAST project, use an archetype from [fast-archetype](http://smile-sa.github.io/fast-archetype).
 All project created with those archetypes use this current project : fast-archetype-parent.
 
+## History
 
+Here are the available versions :
 
-
+- [fast-archetype-parent-2.12](http://smile-sa.github.io/fast-archetype-parent/2.12)
