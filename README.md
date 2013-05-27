@@ -1,0 +1,2 @@
+fast-archetype-parent
+=====================
