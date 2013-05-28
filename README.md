@@ -15,3 +15,7 @@ All project created with those archetypes use this current project : fast-archet
 Here are the available versions :
 
 - [fast-archetype-parent-2.12.1](http://smile-sa.github.io/fast-archetype-parent/2.12.1)
+
+Current development documentation :
+
+- [fast-archetype-parent-2.12.2](http://smile-sa.github.io/fast-archetype-parent/2.12.2-SNAPSHOT)
