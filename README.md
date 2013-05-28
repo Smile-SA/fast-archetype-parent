@@ -18,4 +18,4 @@ Here are the available versions :
 
 Current development documentation :
 
-- [fast-archetype-parent-2.12.2](http://smile-sa.github.io/fast-archetype-parent/2.12.2-SNAPSHOT)
+- [fast-archetype-parent-2.12.2-SNAPSHOT](http://smile-sa.github.io/fast-archetype-parent/2.12.2-SNAPSHOT)
